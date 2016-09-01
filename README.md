@@ -1,1 +1,2 @@
 # lagoubanner
+用了setInterval clearInterval 的句柄JQ的animate的动画
